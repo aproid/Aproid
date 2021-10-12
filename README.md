@@ -16,8 +16,6 @@
 
 <img src="https://img.shields.io/badge/Sublime Text-FF9800?style=flat-square&logo=Sublime Text&logoColor=white"/> <img src="https://img.shields.io/badge/Adobe Photoshop-31A8FF?style=flat-square&logo=Adobe Photoshop&logoColor=white"/>
 
-[![Anurag's GitHub Stats](https://github-readme-stats.vercel.app/api?username=aproid)](https://github.com/anuraghazra/github-readme-stats)
-
 [Tech Blog]: https://aproid.github.io/
 [Email]: mailto:you171717@naver.com
 [Bitbucket]: https://bitbucket.org/Dpriod/
