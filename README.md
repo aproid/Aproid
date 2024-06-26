@@ -1,4 +1,4 @@
-### Hello there 👋, My name is Aproid <sub><sup>(a.k.a. oL0, Dproid)</sub></sup>
+### Hello there 👋, My name is Aproid
 
 - 💻 I'm a junior developer who interested in web services
 - 🤔 I'm a dreamer
